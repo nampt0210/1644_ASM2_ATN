@@ -14,12 +14,12 @@ module.exports = {
     dialect: "postgres",
   },
   production: {
-    username: "khrhmbscaqiwyi",
-    password: "d46a2d5fcacc09168d07fd08d0a967c268aa4a754b477411cfc795311394c70b",
-    database: "dtg1p7o6631g7",
-    host: "ec2-54-87-34-201.compute-1.amazonaws.com",
+    username: "twvzfviwnahkik",
+    password: "bbc1b52a9212e095d6dcced3d8762d2bec2e823f456c4a79f2e19e09c6f180d3",
+    database: "d6t945in817g0q",
+    host: "ec2-54-209-43-223.compute-1.amazonaws.com",
     dialect: "postgres",
     ssl: true,
-    url: 'postgres://khrhmbscaqiwyi:d46a2d5fcacc09168d07fd08d0a967c268aa4a754b477411cfc795311394c70b@ec2-54-87-34-201.compute-1.amazonaws.com:5432/dtg1p7o6631g7'
+    url: 'postgres://twvzfviwnahkik:bbc1b52a9212e095d6dcced3d8762d2bec2e823f456c4a79f2e19e09c6f180d3@ec2-54-209-43-223.compute-1.amazonaws.com:5432/d6t945in817g0q'
   },
 };
